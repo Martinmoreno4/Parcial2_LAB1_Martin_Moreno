@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1637971754 source:d:\3°cuatri 2021\lab 1\parcial 2\parcial 2 martin moreno\controller.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Peliculas.h"
+	"parser.h"
+	"Controller.h"
+
+1637971856 source:d:\3°cuatri 2021\lab 1\parcial 2\parcial 2 martin moreno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Peliculas.h"
+
+1637968355 source:d:\3°cuatri 2021\lab 1\parcial 2\parcial 2 martin moreno\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Peliculas.h"
+
+1637971214 source:d:\3°cuatri 2021\lab 1\parcial 2\parcial 2 martin moreno\peliculas.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Peliculas.h"
+
+1637969478 source:d:\3°cuatri 2021\lab 1\parcial 2\parcial 2 martin moreno\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637965868 d:\3°cuatri 2021\lab 1\parcial 2\parcial 2 martin moreno\linkedlist.h
+
+1637971214 d:\3°cuatri 2021\lab 1\parcial 2\parcial 2 martin moreno\peliculas.h
+
+1637972022 d:\3°cuatri 2021\lab 1\parcial 2\parcial 2 martin moreno\controller.h
+	"LinkedList.h"
+
+1637969085 d:\3°cuatri 2021\lab 1\parcial 2\parcial 2 martin moreno\parser.h
+	"LinkedList.h"
+
